@@ -1,0 +1,36 @@
+:root {
+    --background-color1: white;
+    --brand-color1: 
+}
+
+* { border: 1px solid black; }
+
+body {
+    background: var(--background-color1);
+}
+
+.nav-img {
+    width: auto;
+    height: 40px;
+}
+
+.nav-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.centered-babies {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-link {
+    margin: 0 1rem;
+}
+
+.call-to-action {
+    padding: 1rem;
+    background-color: ;
+}
