@@ -102,3 +102,11 @@ height: 30vh;
 .icon {
 height: 2rem;
 }
+
+textarea {
+    width: 100%;
+}
+
+.centered-column {
+    flex-direction: column;
+}
